@@ -1,0 +1,4 @@
+# Nmap 7.40 scan initiated Thu Jun  8 10:04:13 2017 as: nmap -oG test.txt -sS -O 10.163.132.43
+Host: 10.163.132.43 ()	Status: Up
+Host: 10.163.132.43 ()	Status: Up	OS: Avaya P580 switch running Cajun Switch Agent v5.4.2|Avaya P880 switch running Cajun Switch Agent v5.3.2|Conceptronic CHD3NET NAS device|Hotway HDC-U2LA or Vantec NexStar LX NAS device|Nortel switch
+# Nmap done at Thu Jun  8 10:04:42 2017 -- 1 IP address (1 host up) scanned in 30.54 seconds
